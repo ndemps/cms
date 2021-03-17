@@ -8,26 +8,15 @@ export default function Home() {
         <title>Dempski CMS</title>
         <link rel="icon" href="./assets/images/icon.png" />
       </Head>
-
       <main className={styles.main}>
         <h1 className={styles.title}>
           Welcome to Your CMS!
         </h1>
-
         <p className={styles.description}>
           Get started by editing{' '}
-          
         </p>
-
-        
-
-        
-        </main>
-      
-     
-
+      </main>
       <footer className={styles.footer}>
-      
       </footer>
     </div>
   )
