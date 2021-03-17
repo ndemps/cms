@@ -13,7 +13,7 @@ export default function Home() {
           Welcome to Your CMS!
         </h1>
         <p className={styles.description}>
-          Get started by editing{' '}
+          Get started{' '}
         </p>
       </main>
       <footer className={styles.footer}>
